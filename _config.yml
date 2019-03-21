@@ -7,15 +7,15 @@ url: "https://projectpages.github.io"
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/DL-2k19"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  arpit-batra
+project_repository: DL-2k19
+disqus_shortname: DL-2k19
 g-analytics: UA-75881392-1
 altmetric: true
 
